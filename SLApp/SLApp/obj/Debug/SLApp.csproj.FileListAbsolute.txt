@@ -1,1 +1,0 @@
-D:\Develop\GitHub\gdal_start\SLApp\SLApp\bin\Debug\SLApp.exe.config
